@@ -6,7 +6,7 @@ Frontend simples, com barra de carregamento feito para uso conjunto da API de me
 
 # Tecnologias utilizadas
 
-- HTML/CSS/JavaScript
+- HTML/JavaScript
 - Vue.js
 
 # Como executar o projeto
