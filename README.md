@@ -25,6 +25,7 @@ npm install
 npm run serve
 ```
 
+- http://localhost:8081/ no navegador depois dos comandos acima.
 - Mensagens de erro na resposta da API.
 
 # Autor
